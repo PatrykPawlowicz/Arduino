@@ -1,6 +1,6 @@
 # Arduino
  Weather station
-My first project on Arduino. The station measures humidity, pressure, air temperature and tests air pollution
+- my first project on Arduino. The station measures humidity, pressure, air temperature and tests air pollution
 ## Requirements and technologies
 * You should download the free Arduino program. Download the libraries listed below. After installing it, select the appropriate model of your arduino and upload the code.
 
