@@ -19,4 +19,6 @@
 #include<Adafruit_BME280.h>
 
 ## Code: 
-
+![Screenshot 1](https://github.com/PatrykPawlowicz/Arduino/blob/master/Arduino%20-%20code/Zrzut%20ekranu%20(19).png?raw=true)
+![Screenshot 2]()
+![Screenshot 3]()
