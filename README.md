@@ -20,5 +20,5 @@
 
 ## Code: 
 ![Screenshot 1](https://github.com/PatrykPawlowicz/Arduino/blob/master/Arduino%20-%20code/Zrzut%20ekranu%20(19).png?raw=true)
-![Screenshot 2]()
+![Screenshot 2](https://github.com/PatrykPawlowicz/Arduino/blob/master/Arduino%20-%20code/Zrzut%20ekranu%20(20).png?raw=true)
 ![Screenshot 3]()
